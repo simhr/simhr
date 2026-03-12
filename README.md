@@ -58,15 +58,15 @@ I’ve recently stepped into open-source 🌍 and I’m excited to learn, contri
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gaganpreet-kaur-a7a816318/">
+  <a href="https://www.linkedin.com/in/simranjeet-singh-713a36236/)">
     <img src="https://skillicons.dev/icons?i=linkedin" width="35px" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Gagan144-blip">
+  <a href="https://github.com/simhr">
     <img src="https://skillicons.dev/icons?i=github" width="35px" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:gaganmt88@gmail.com">
+  <a href="mailto:simhr0001@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="35px" />
   </a>
 </p>
@@ -77,7 +77,7 @@ I’ve recently stepped into open-source 🌍 and I’m excited to learn, contri
 
 ## 🌐 LeetCode Profile
 <p align="center">
-<a href="https://leetcode.com/Gkaur_44/" target="_blank">
+<a href="https://leetcode.com/u/simhr001/" target="_blank">
   <img src="leetcode.png" height=50px" width="50px"  />
 </a>
 </p>
