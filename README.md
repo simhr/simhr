@@ -3,18 +3,18 @@
 🚀 **SAP ABAP Developer | Python Learner | AI Enthusiast**
 🎓 **B.Tech CSE Graduate — GNDEC Ludhiana**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=SAP+Developer;ERP+Developer;Python+Learner;Future+AI+Engineer;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=500&lines=SAP+Developer;ERP+Developer;Python+Learner;Future+AI+Engineer;Open+Source+Enthusiast" />
 
 ---
 
 ## 👨‍💻 About Me
 
-💻 SAP Developer with **2+ years of experience**
-🏢 Currently working as **SAP ABAP Developer**
-🧾 Experience with **ERP Development (SAP & Frappe)**
-🐍 Currently learning **Python for AI & Data Science**
-🌱 Exploring **DSA, Machine Learning & AI**
-🤝 Interested in **Open Source Contributions**
+- 💻 SAP Developer with **2+ years of experience**
+- 🏢 Currently working as **SAP ABAP Developer**
+- 🧾 Experience with **ERP Development (SAP & Frappe)**
+- 🐍 Currently learning **Python for AI & Data Science**
+- 🌱 Exploring **DSA, Machine Learning & AI**
+- 🤝 Interested in **Open Source Contributions**
 
 > **Code. Learn. Grow. Repeat.** 🚀
 
@@ -55,12 +55,12 @@
 
 ---
 
-# 🧠 Currently Learning
+## 🧠 Currently Learning
 
-✔ Data Structures & Algorithms
-✔ Python for AI & Machine Learning
-✔ Open Source Contribution
-✔ Advanced Git & GitHub workflows
+- Data Structures & Algorithms
+- Python for AI & Machine Learning
+- Open Source Contribution
+- Advanced Git & GitHub workflows
 
 # 🌐 Connect With Me
 
