@@ -43,7 +43,7 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
 
 <img src="https://github-readme-stats.vercel.app/api?username=simhr&show_icons=true&theme=tokyonight" />
 
@@ -64,7 +64,7 @@
 
 # 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
 
 <a href="https://www.linkedin.com/in/simranjeet-singh-713a36236/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
