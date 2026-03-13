@@ -82,6 +82,10 @@
   <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="40"/>
 </a>
 
+<a href="https://wa.me/9914050940">
+  <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40"/>
+</a>
+
 </p>
 
 ---
