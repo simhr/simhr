@@ -28,21 +28,7 @@
 <img src="https://skillicons.dev/icons?i=c" />
 <img src="https://skillicons.dev/icons?i=cpp" />
 <img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=js" />
 </p>
-
----
-
-## 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=tailwind" />
-<img src="https://skillicons.dev/icons?i=nextjs" />
-</p>
-
----
 
 ## ⚙️ Tools & Technologies
 
@@ -76,20 +62,6 @@
 ✔ Open Source Contribution
 ✔ Advanced Git & GitHub workflows
 
----
-
-# 🏆 LeetCode
-
-<p align="center">
-
-<a href="https://leetcode.com/u/simhr001/">
-<img src="https://leetcode-stats.vercel.app/api?username=simhr001&theme=dark" />
-</a>
-
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
@@ -104,6 +76,10 @@
 
 <a href="mailto:simhr0001@gmail.com">
 <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40"/>
+</a>
+
+<a href="https://leetcode.com/u/simhr001/">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="40"/>
 </a>
 
 </p>
