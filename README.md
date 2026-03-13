@@ -1,89 +1,114 @@
-# Hi there, I'm Simranjeet Singh! 👋
+# Hi 👋 I'm **Simranjeet Singh**
 
-🎓 **Btech CSE| Navodayan | GNDEC Ludhiana**<br>
-💻 *SAP ABAP Developer* <br>
-🌱 *Currently Working in Unbrako As SAP Developer*
-  
-  "Code. Learn. Grow."
+🚀 **SAP ABAP Developer | Python Learner | AI Enthusiast**
+🎓 **B.Tech CSE Graduate — GNDEC Ludhiana**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=SAP+Developer;ERP+Developer;Python+Learner;Future+AI+Engineer;Open+Source+Enthusiast" />
+
 ---
 
-### 👋 About Me
+## 👨‍💻 About Me
 
-Hey there! I'm a passionate Developer who loves building things 💻✨  
-I enjoy exploring new technologies 🔍, writing clean code 🧼, and creating projects that help me grow 📈.  
-I’ve recently stepped into open-source 🌍 and I’m excited to learn, contribute, and collaborate with amazing developers 🤝💡.
+💻 SAP Developer with **2+ years of experience**
+🏢 Currently working as **SAP ABAP Developer**
+🧾 Experience with **ERP Development (SAP & Frappe)**
+🐍 Currently learning **Python for AI & Data Science**
+🌱 Exploring **DSA, Machine Learning & AI**
+🤝 Interested in **Open Source Contributions**
 
+> **Code. Learn. Grow. Repeat.** 🚀
 
-## 🛠️ Tech Stack
+---
 
-### **Languages**
+# 🚀 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c" width="40" />
-  <img src="https://skillicons.dev/icons?i=cpp" width="40" />
-  <img src="https://skillicons.dev/icons?i=python" width="40" />
-</p>
-
-### **Web**
+## 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html" width="40" />
-  <img src="https://skillicons.dev/icons?i=css" width="40" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="40" />
-  <img src="https://skillicons.dev/icons?i=js" width="40" />
-  <img src="https://skillicons.dev/icons?i=nextjs" width="40" />
-</p>
-
-### **Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git" width="40" />
-  <img src="https://skillicons.dev/icons?i=github" width="40" />
-  <img src="https://skillicons.dev/icons?i=linux" width="40" />
-  <img src="https://skillicons.dev/icons?i=vscode" width="40" />
-
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=js" />
 </p>
 
 ---
 
-## 📌 Current Focus
-🌐 Sharpening my web development skills (HTML, CSS, JavaScript)<br>
-🎨 Learning DSA  ⚡<br>
-🛠️ Actively starting open-source contributions <br>
-🚧 Building practical, real-world projects to strengthn my skills <br>
-🧭 Getting better with Git & GitHub workflows 🔄<br>
+## 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=tailwind" />
+<img src="https://skillicons.dev/icons?i=nextjs" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## ⚙️ Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/simranjeet-singh-713a36236/)">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="35px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/simhr">
-    <img src="https://skillicons.dev/icons?i=github" width="35px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:simhr0001@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="35px" />
-  </a>
-</p>
 
-<br>
+<img src="https://github-readme-stats.vercel.app/api?username=simhr&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=simhr&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simhr&layout=compact&theme=tokyonight" />
+
+</p>
 
 ---
 
-## 🌐 LeetCode Profile
+# 🧠 Currently Learning
+
+✔ Data Structures & Algorithms
+✔ Python for AI & Machine Learning
+✔ Open Source Contribution
+✔ Advanced Git & GitHub workflows
+
+---
+
+# 🏆 LeetCode
+
 <p align="center">
-<a href="https://leetcode.com/u/simhr001/" target="_blank">
-  <img src="leetcode.png" height=50px" width="50px"  />
+
+<a href="https://leetcode.com/u/simhr001/">
+<img src="https://leetcode-stats.vercel.app/api?username=simhr001&theme=dark" />
 </a>
+
 </p>
-<br>
-<br>
 
 ---
 
-Thanks for visiting! ✨
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/simranjeet-singh-713a36236/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+</a>
+
+<a href="https://github.com/simhr">
+<img src="https://skillicons.dev/icons?i=github" width="40"/>
+</a>
+
+<a href="mailto:simhr0001@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="40"/>
+</a>
+
+</p>
+
+---
+
+✨ *Thanks for visiting my profile!*
+Let's **build something amazing together** 🚀
