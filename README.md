@@ -86,6 +86,10 @@
   <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40"/>
 </a>
 
+<a href="https://simhr.github.io">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" width="40"/>
+</a>
+
 </p>
 
 ---
